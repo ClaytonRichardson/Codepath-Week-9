@@ -21,4 +21,4 @@ I could view all the contents of the file in the admin vm however.
 
 Dionaea had a total of 8374 attacks
 
-![Alt Text](https:github.com/ClaytonRichardson/Codepath-Week-9/blob/master/SummaryOfAttacks.PNG)
+![Alt Text](https://github.com/ClaytonRichardson/Codepath-Week-9/blob/master/SummaryOfAttacks.PNG)
